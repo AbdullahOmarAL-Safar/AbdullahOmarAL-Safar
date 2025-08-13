@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah Omar
 
 🎓 A 16-year-old front-end developer passionate about building interactive, user-friendly web applications with **React**, **JavaScript**, and **HTML**.  
-🌍 Based in Iraq, and currently contributing to leading innovation hubs like **QAF Lab** and **Mosul Space**, supported by the Prime Minister’s National Youth Development Initiative.  
+🌍 I'm currently part of real-world training programs at Mosul Space and QAF Lab, where I build practical projects and collaborate with talented developers in Iraq. 
 🚀 I'm continuously learning, building, and sharing my progress openly — one commit at a time.
 
 ---
