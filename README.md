@@ -15,23 +15,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🌐 Personal_Portfolio](https://github.com/abdullahomar-dev/Personal_Portfolio) | A modern personal portfolio website showcasing my work and skills | HTML, CSS |
-| [✅ React To-Do List App](https://github.com/abdullahomar-dev/react-todo-list-app) | Task manager with add/remove functionality and UI interactivity | React |
-| [🛒 Tech Hub E-Commerce App](https://github.com/abdullahomar-dev/tech-hub-e-commerce-app) | E-commerce store project built from a fork, with custom improvements | React, JS |
-| [🚗 React Car List App](https://github.com/abdullahomar-dev/react-car-list-app) | Displays dynamic list of cars with filtering and state updates | React |
-| [📇 Student Info Card](https://github.com/abdullahomar-dev/-Student-Info-Card---React-Component) | Component-based app rendering dynamic student info | React |
-| [📖 Simple React Posts App](https://github.com/abdullahomar-dev/Simple-React-Posts-App) | Renders and manages user posts with UI feedback | React |
-| [🎨 Color Picker Demo](https://github.com/abdullahomar-dev/react-color-picker-demo) | Pick and preview colors dynamically with real-time updates | React |
-| [🎬 MovieFinder](https://github.com/abdullahomar-dev/MovieFinder) | Movie search engine using static HTML/JS with clean design | HTML, JS |
-| [🧮 Calculator App](https://github.com/abdullahomar-dev/Calculator) | Simple calculator interface using basic DOM manipulation | HTML, JS |
-| [⏱ Digital Clock & Stopwatch](https://github.com/abdullahomar-dev/Digital-Clock-program) | Real-time digital clock and stopwatch apps | HTML, JS |
-
----
-
 ## 🎯 What I'm Working On
 - Improving my **React.js architecture and reusable components**
 - Exploring **Tailwind CSS** for faster UI development
