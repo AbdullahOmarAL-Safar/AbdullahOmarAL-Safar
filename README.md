@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Abdullah Omar
 
 🎓 A 16-year-old front-end developer passionate about building interactive, user-friendly web applications with **React**, **JavaScript**, and **HTML**.  
+
 🌍 I'm currently part of real-world training programs at Mosul Space and QAF Lab, where I build practical projects and collaborate with talented developers in Iraq. 
+
 🚀 I'm continuously learning, building, and sharing my progress openly — one commit at a time.
 
 ---
@@ -25,7 +27,7 @@
 ## 🌟 Let's Connect!
 
 - 🌐 LinkedIn: (www.linkedin.com/in/itsabdullahomar) 
-- 📬 Email: `abdullahomar.work@gmail.com`
+- 📬 Email: `abodyalsafar2009@gmail.com`
 
 ---
 
