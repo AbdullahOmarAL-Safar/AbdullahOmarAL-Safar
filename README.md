@@ -81,7 +81,7 @@ A supervised machine learning project analyzing educational data to predict stud
 - Model training and evaluation
 
 🔗 Repository:  
-(https://github.com/AbdullahOmarAL-Safar/student-performance-prediction)
+https://github.com/AbdullahOmarAL-Safar/student-performance-prediction
 ---
 
 ## 📜 Certifications
