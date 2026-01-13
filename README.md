@@ -9,25 +9,33 @@ I enjoy building real-world, production-ready systems and learning how software 
 ## 🔧 Technical Focus
 
 ### Software Development
-- JavaScript (ES6+), TypeScript
-- HTML5, CSS3
-- React, Tailwind CSS
-- NestJS, RESTful APIs
-- PostgreSQL, TypeORM
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Scalable%20Apps-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-UI%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-Backend-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Data & Machine Learning
-- Python
-- Pandas, NumPy
-- Data Visualization (Matplotlib, Seaborn)
-- Supervised Machine Learning (Linear & Logistic Regression)
-- Exploratory Data Analysis (EDA)
+![Python](https://img.shields.io/badge/Python-Data%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Supervised%20ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ### Tools & Workflow
-- Git & GitHub
-- VS Code
-- Linux fundamentals
-- Google Colab
-- API testing & debugging
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-ML%20Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge)
+
 
 ---
 
