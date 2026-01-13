@@ -6,15 +6,15 @@ I enjoy building real-world, production-ready systems and learning how software 
 
 ---
 
-## 🔧 Technical Focus
+# 🔧 Technical Focus
 
-# 💻 Software Development
+## 💻 Software Development
 <p> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nestjs,postgres" /> </p>
 
 Concepts & Practices:
 Scalable Applications · UI Development · Utility-First CSS · RESTful APIs · Backend Architecture · Database Design
 
-📊 Data & Machine Learning
+## 📊 Data & Machine Learning
 <p> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
 Libraries & Tools:
@@ -23,7 +23,7 @@ Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 ML Focus:
 Supervised Learning · Linear Regression · Logistic Regression · Exploratory Data Analysis (EDA) · Data Visualization
 
-🛠️ Tools & Workflow
+## 🛠️ Tools & Workflow
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
 
 Workflow & Practices:
