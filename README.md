@@ -15,7 +15,7 @@ I enjoy building real-world, production-ready systems and learning how software 
 
 ### 📊 Data & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter" />
 </p>
 
 ### 🛠️ Tools & Workflow
