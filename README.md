@@ -8,7 +8,7 @@ I enjoy building real-world, production-ready systems and learning how software 
 
 ## 🔧 Technical Focus
 
-💻 Software Development
+# 💻 Software Development
 <p> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nestjs,postgres" /> </p>
 
 Concepts & Practices:
