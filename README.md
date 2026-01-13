@@ -37,22 +37,6 @@ I enjoy building real-world, production-ready systems and learning how software 
 
 ---
 
-## 🧠 Machine Learning Journey
-
-I am currently transitioning into Machine Learning, with a focus on building strong foundations in supervised learning and data analysis.
-
-I have completed **Supervised Machine Learning** by **Stanford University & DeepLearning.AI**, gaining practical understanding of:
-
-- Linear and Logistic Regression
-- Cost functions and gradient descent
-- Feature scaling and data preprocessing
-- Model evaluation and interpretation
-- Applying supervised learning using Python
-
-At this stage, I focus on small, well-structured projects that emphasize clarity, correctness, and interpretability over complexity. I approach Machine Learning as a long-term discipline, prioritizing fundamentals before advancing to more complex models.
-
----
-
 ## 🧠 Featured Projects
 
 ### 🎟️ TEDxMosul Ticket System
