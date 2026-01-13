@@ -1,36 +1,107 @@
-# 👋 Hi, I'm Abdullah Omar
+## 👋 Hi, I’m Abdullah Omar
 
-🎓 A 16-year-old front-end developer passionate about building interactive, user-friendly web applications with **React**, **JavaScript**, and **HTML**.  
+I’m a junior software developer with hands-on experience in full-stack web development and a growing focus on data analysis and machine learning.
 
-🌍 I'm currently part of real-world training programs at Mosul Space and QAF Lab, where I build practical projects and collaborate with talented developers in Iraq. 
-
-🚀 I'm continuously learning, building, and sharing my progress openly — one commit at a time.
+I enjoy building real-world, production-ready systems and learning how software engineering, data, and system design work together to solve practical problems.
 
 ---
 
-## 🔨 Tech Stack
+## 🔧 Technical Focus
 
-- 💻 Languages: JavaScript (ES6+), HTML5, CSS3
-- ⚛️ Frameworks/Libraries: React.js, Tailwind CSS
-- 🛠 Tools: Git, GitHub, VS Code, Chrome DevTools
-- 📦 Concepts: Components, Props, State, Hooks, Routing, Conditional Rendering
+### Software Development
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3
+- React, Tailwind CSS
+- NestJS, RESTful APIs
+- PostgreSQL, TypeORM
+
+### Data & Machine Learning
+- Python
+- Pandas, NumPy
+- Data Visualization (Matplotlib, Seaborn)
+- Supervised Machine Learning (Linear & Logistic Regression)
+- Exploratory Data Analysis (EDA)
+
+### Tools & Workflow
+- Git & GitHub
+- VS Code
+- Linux fundamentals
+- Google Colab
+- API testing & debugging
 
 ---
 
-## 🎯 What I'm Working On
-- Improving my **React.js architecture and reusable components**
-- Exploring **Tailwind CSS** for faster UI development
-- Preparing for advanced topics like **Next.js** and **API integration**
+## 🚀 Experience
+
+**Full Stack Web Development Trainee — QAF Lab (Tech Hub)**  
+*Jul 2025 – Nov 2025 · On-site · Mosul, Iraq*
+
+- Completed an intensive, project-based full-stack bootcamp focused on real-world application development  
+- Worked across frontend, backend, databases, authentication, and system architecture  
+- Built production-ready systems using modern frameworks and best practices  
+- Successfully completed the program as the youngest participant (16 years old)
 
 ---
 
-## 🌟 Let's Connect!
+## 🧠 Machine Learning Journey
 
-- 🌐 LinkedIn: (www.linkedin.com/in/itsabdullahomar) 
-- 📬 Email: `abodyalsafar2009@gmail.com`
+I am currently transitioning into Machine Learning, with a focus on building strong foundations in supervised learning and data analysis.
+
+I have completed **Supervised Machine Learning** by **Stanford University & DeepLearning.AI**, gaining practical understanding of:
+
+- Linear and Logistic Regression
+- Cost functions and gradient descent
+- Feature scaling and data preprocessing
+- Model evaluation and interpretation
+- Applying supervised learning using Python
+
+At this stage, I focus on small, well-structured projects that emphasize clarity, correctness, and interpretability over complexity. I approach Machine Learning as a long-term discipline, prioritizing fundamentals before advancing to more complex models.
 
 ---
 
-### 📢 “Every idea transforms. Every young person inspires.”
-> Let’s build, share, and grow together.
+## 🧠 Featured Projects
 
+### 🎟️ TEDxMosul Ticket System
+A production-ready full-stack platform for managing TEDx event ticketing, bookings, approvals, and QR-based check-in.
+
+- JWT-based authentication with role-based access control
+- Admin dashboards and booking workflows
+- NestJS + React + PostgreSQL architecture  
+
+🔗 Repository:  
+https://github.com/AbdullahOmarAL-Safar/TEDxMosul-Ticket-System
+
+---
+
+### 🎓 Student Performance Prediction (Machine Learning)
+A supervised machine learning project analyzing educational data to predict students’ final grades using Linear Regression.
+
+- Exploratory data analysis and visualization
+- Feature correlation analysis
+- Model training and evaluation
+
+🔗 Repository:  
+*(add your ML project repository link here)*
+
+---
+
+## 📜 Certifications
+- Supervised Machine Learning — Stanford University & DeepLearning.AI  
+- CS50: Introduction to Computer Science — Harvard University (edX)  
+- ChatGPT Foundations — OpenAI  
+- Introduction to Front-End Development — Meta  
+
+---
+
+## 📌 Currently Learning
+- Backend architecture patterns
+- Advanced React and state management
+- Applied machine learning fundamentals
+- Clean code and software design principles
+
+---
+
+## 🤝 Let’s Connect
+- GitHub: https://github.com/AbdullahOmarAL-Safar  
+- LinkedIn: https://www.linkedin.com/in/itsabdullahomar  
+- Email: abodyalsafar2009@gmail.com
