@@ -8,44 +8,26 @@ I enjoy building real-world, production-ready systems and learning how software 
 
 ## 🔧 Technical Focus
 
-### Software Development
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nestjs,postgres" />
-</p>
+💻 Software Development
+<p> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nestjs,postgres" /> </p>
 
-### Data & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+Concepts & Practices:
+Scalable Applications · UI Development · Utility-First CSS · RESTful APIs · Backend Architecture · Database Design
 
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+📊 Data & Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
+Libraries & Tools:
+Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
+ML Focus:
+Supervised Learning · Linear Regression · Logistic Regression · Exploratory Data Analysis (EDA) · Data Visualization
 
+🛠️ Tools & Workflow
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
 
-### Data & Machine Learning
-![Python](https://img.shields.io/badge/Python-Data%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Supervised%20ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-ML%20Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-APIs-005571?style=for-the-badge)
-
+Workflow & Practices:
+Version Control · Code Review · ML Notebooks (Google Colab) · API Testing & Debugging
 
 ---
 
