@@ -14,9 +14,15 @@ I enjoy building real-world, production-ready systems and learning how software 
 </p>
 
 ### 📊 Data & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+<p style="display:flex; gap:16px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
 </p>
+
 
 ### 🛠️ Tools & Workflow
 <p>
