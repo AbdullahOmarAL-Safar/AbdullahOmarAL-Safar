@@ -88,3 +88,8 @@ https://github.com/AbdullahOmarAL-Safar/student-performance-prediction
 - GitHub: https://github.com/AbdullahOmarAL-Safar  
 - LinkedIn: https://www.linkedin.com/in/itsabdullahomar  
 - Email: abodyalsafar2009@gmail.com
+  
+---
+
+## 📖 Research account
+- ORCID: https://orcid.org/0009-0000-5425-1022  
